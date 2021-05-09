@@ -26,6 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moythreads.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moises_silva
 github_username:  moises-silva
+permalink: /:year/:month/:day/:title:output_ext
+google_analytics: G-1114D4V7V9
+disqus:
+  shortname: moythreads
 
 # Build settings
 theme: minima
