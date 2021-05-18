@@ -31,8 +31,8 @@ Credit goes to the [linuxjournal article](https://www.linuxjournal.com/content/d
 
 Just like that, I was done. I spent more time looking at complicated ways of doing it when the easiest and cleaneast solution was right at my fingertips. The resulting archive is still at the same old url but now it's all static content for my two legacy blogs:
 
-[https://moythreads.com/wordpress/]()  
-[https://moythreads.com/astunicall/]()
+<https://moythreads.com/wordpress/>  
+<https://moythreads.com/astunicall/>  
 
 This is my first ever Jekyll post and I am aiming to post regularly going forward. At least once a month. It's kind of nice and liberating to be able to write using just a textfile with markdown. I had a couple of posts started in my old wordpress blog I'll be completing and publishing soon here.
 

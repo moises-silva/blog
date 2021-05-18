@@ -28,8 +28,8 @@ twitter_username: moises_silva
 github_username:  moises-silva
 permalink: /:year/:month/:day/:title:output_ext
 google_analytics: G-1114D4V7V9
-disqus:
-  shortname: moythreads
+#disqus:
+# shortname: moythreads
 
 # Build settings
 theme: minima
