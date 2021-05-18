@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Jekyll, goodbye wordpress!"
+title:  "Hello Jekyll, goodbye Wordpress!"
 date:   2021-05-08
 ---
 Ok, yeah I know I am about 10yrs late to the party but I finally pulled the trigger in archiving my old wordpress website and moving to a static blog platform. After a whole 1 second of googling and a few more of deliberation I reached out for [Jekyll](https://jekyllrb.com/). I considered briefly using github pages for hosting but then decided to self-host since I have a [DO](https://www.digitalocean.com/) instance I use for hobby development and testing from time to time anyways.
