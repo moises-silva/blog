@@ -1,0 +1,5 @@
+# dev launch
+bundle exec jekyll serve --livereload --trace
+
+# production build
+JEKYLL_ENV=production bundle exec jekyll build
