@@ -61,7 +61,7 @@ You can watch the following video that talks more about this topic and the resou
 
 ## Summary
 
-Remember you're now on a different career path. It's a related path but still different. You can try it and decide is not for you and eventually go back to being an IC (I did that once, and may be at some point I will again). The skills that got you here are not the same skills that will make you successful in your new path. Be open to learn these new skills. Learn to take it easy, manage your time to invest in the right areas and build trust by delegating to your teammates and you'll be definitely be off to great start in what can become an incredibly fulfilling career as an engineering leader.
+Remember you're now on a different career path. It's a related path but still different. You can try it and decide is not for you and eventually go back to being an IC (I did that once, and may be at some point I will again). The skills that got you here are not the same skills that will make you successful in your new path. Be open to learn these new skills. Learn to take it easy, manage your time to invest in the right areas and build trust by delegating to your teammates and you'll definitely be off to great start in what can become an incredibly fulfilling career as an engineering leader.
 
 ## Resources
 
