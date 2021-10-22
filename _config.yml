@@ -27,8 +27,8 @@ url: "https://moythreads.com" # the base hostname & protocol for your site, e.g.
 twitter_username: moises_silva
 github_username:  moises-silva
 permalink: /:year/:month/:day/:title:output_ext
-#google_analytics: G-1114D4V7V9
-google_analytics: 271714191
+google_analytics: G-1114D4V7V9
+#google_analytics: 271714191
 #disqus:
 # shortname: moythreads
 
